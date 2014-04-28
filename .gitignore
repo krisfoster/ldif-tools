@@ -1,7 +1,3 @@
 /target/
-/hr-oid.ldif
-/weblogic.ldif
-/oid.ldif
-/groups.txt
+/*.ldif
 /bin/
-/ap-oid.ldif
